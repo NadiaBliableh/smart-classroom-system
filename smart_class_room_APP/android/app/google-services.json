@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "308289584273",
+    "firebase_url": "https://universitysystem-mn-default-rtdb.firebaseio.com",
+    "project_id": "universitysystem-mn",
+    "storage_bucket": "universitysystem-mn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308289584273:android:9359f04fe3b1dd5b04d330",
+        "android_client_info": {
+          "package_name": "com.example.smart_class_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdoahDh1pdt0aUmDIGefIqKn0mJ5UhGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
